@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1702393391 source:c:\users\acer\desktop\tubes_std\tubes_std\main.cpp
+	"tubes.h"
+
+1702379527 source:c:\users\acer\desktop\tubes_std\tubes_std\tubes.cpp
+	"tubes.h"
+
+1702395283 c:\users\acer\desktop\tubes_std\tubes_std\tubes.h
+	<iostream>
+
